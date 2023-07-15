@@ -1,0 +1,263 @@
+      .Tahoma_font {
+           
+       font-family : tahoma;
+       font-weight : bold ;
+       font-size : 30px;
+       
+   
+      }
+   
+      .deals {
+   
+        font-family : arial ;
+        font-weight : bold ;
+        font-size : 27px;
+        margin-bottom : 7px;
+   
+   
+   
+    }
+   
+   
+     .sales {
+           font-family : arial;
+           color : rgb(233, 68, 68);
+           font-size :20px;
+           font-style : italic ;
+           margin-top : 0px;
+          
+          
+   
+     }
+   
+     .html {
+   
+       font-family : verdana ;
+       font-weight : bold ;
+       font-size : 18px;
+       margin-bottom : 5px;
+       margin-left : 700px;
+     }
+   
+     .pro {
+      
+       font-size : 20px;
+       color :rgb(150, 148, 146);
+       margin-top : 0px;
+       margin-bottom :0px;
+       margin-left : 700px;
+       
+     }
+   
+     .in {
+   
+       font-family :verdana;
+       width : 300px;
+       margin-bottom :10x;
+       margin-left : 700px;
+     }
+   
+     .get {
+   
+       color : white ;
+       background-color: rgb(5, 100, 5);
+       border : none ;
+       border-radius : 5px;
+       padding-top : 7px;
+       padding-bottom :7px;
+       padding-left : 10px;
+       padding-right :10px;
+       margin-top : 0px;
+       margin-left :700px;
+       cursor: pointer;
+     }
+   
+     .shopping {
+   
+       font-family : arial ;
+       font-weight : bold ;
+       font-size : 25px;
+       margin-bottom :0px;
+       margin-left : 500px;
+   
+     }
+   
+     .see {
+   
+       font-family : arial ;
+       margin-left :60px;
+       margin-bottom :0px;
+       margin-left : 500px;
+   
+     }
+   
+     .learn {
+   font-family : arial ;
+       margin-left : 130px;
+       color : rgb(76, 76, 244);
+       margin-left : 500px;
+     }
+   
+   
+   .new {
+   
+     font-family : arial ;
+     color:rgb(250, 66, 66);
+     margin-bottom : 7px;
+     margin-left : 160px;
+   }
+   
+   .mac {
+   
+     font-family : arial ;
+     font-weight : bold ;
+     font-size : 20px;
+     margin-top : 0px;
+     margin-bottom : 0px;
+     margin-left : 110px;
+   }
+   
+   .pros {
+   
+     font-family : arial ;
+     font-weight : bold ;
+     font-size : 29px;
+     margin-top : 7px;
+     margin-bottom : 0px;
+   }
+   
+   .from {
+   
+     color :rgb(161, 154, 146);
+     margin-left : 120px;
+   }
+   
+   .buy{
+   
+     background-color :rgb(79, 149, 255);
+     border : 0px ;
+     border-radius : 12px;
+     color : white ;
+     padding-top :5px;
+     padding-bottom :5px;
+     padding-left : 12px;
+     padding-right : 12px;
+     margin-left : 135px;
+   }
+   
+   .free {
+      font-family : arial ;
+        color : black ;
+        font-weight : bold ;
+       
+   }
+   
+   .code {
+   
+     color :rgb(158, 155, 142);
+   }
+   
+   .web {
+     font-family:arial ;
+     width : 550px;
+   
+   }
+   
+   .here {
+   
+     font-family : arial ;
+   
+   }
+   
+   .ass {
+     color :rgb(79, 149, 255)
+   }
+   
+   .usd {
+   
+     font-family : arial ;
+   
+     font-size :25px;
+   }
+   
+   .usdt {
+   
+     color :rgb(150, 148, 146); 
+     font-size : 15px;
+     font-style: light;
+   }
+   
+   .today {
+   
+     font-family :arial;
+     color :rgb(52, 123, 16);
+   }
+   
+   .after {
+   
+     font-family : arial ;
+     color:rgb(169, 161, 131);
+   }
+   .next {
+   
+     color : red;
+   }
+   
+   .ceo {
+   
+     font-family : arial ;
+     font-weight : bold ;
+     font-size : 20px;
+     width: 350px;
+     line-height : 22px;
+     margin-bottom : 4px;
+    
+   }
+   
+   .view {
+     color :gray;
+     margin-top : 0px;
+     font-size:15px;
+     font-weight: bold;
+   }
+   
+   .mark {
+   
+     color : rgb(117, 106, 93);
+   }
+   
+   .tech {
+   
+     font-family : arial ;
+     width : 320px;
+     height: 25px;
+     
+     color : rgb(96, 96, 96);
+     margin-bottom : 100px;
+   }
+   
+   .shop {
+    font-family : arial ;
+   color : white ;
+   background-color : rgb(31, 28, 28) ;
+   padding-top: 15px;
+   padding-bottom : 15px;
+   padding-left :10px;
+   text-align : center ;
+   font-size : 14px;
+   
+   
+   .hop:hover {
+   
+     text-decoration: underline;
+   
+   }
+   
+   .hop {
+   
+     cursour : pointer ;
+     margin-left :30px;
+   }
+   }
+
+   
